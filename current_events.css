@@ -1,0 +1,56 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: ;
+    }
+
+    header {
+        background-color: ;
+        font-size: ;
+        display: block;
+        text-align: center;
+    }
+
+    body {
+       width: 900px;
+       height: 100%;
+       margin: 0 auto;
+       text-align: center;
+       background-color: lightgoldenrodyellow;
+       background-repeat: round;
+       /*background-image: url("caymana_bay_2.jpg");*/
+    }
+
+    table {
+      align-self: center;
+    }
+    nav {
+
+    }
+
+    nav ul {
+      list-style: none;
+    }
+
+    nav li {
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    nav li a {
+
+    }
+
+    a {
+        color: mediumblue;
+        text-decoration: none;
+    }
+
+    section {
+
+    }
+    footer {
+      
+    }
